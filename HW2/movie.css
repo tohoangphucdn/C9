@@ -1,0 +1,135 @@
+/*  Name: Phuc H To
+    Date: 10/10/2017
+    Section: CSE 154 AD
+    Assignment: Homework #2: Movie Review
+
+    This is the lionking.html file for my Homework #2: Movie Review. It is also linked to
+    movie.css file which is used to style for this page.
+*/
+
+body {
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://webster.cs.washington.edu/images/moviebg.png");
+    margin: 0;
+}
+
+body, ul {
+    padding: 0;
+}
+
+h1, #percent, dt {
+    font-weight: bold;
+}
+
+header, h1, footer {
+    text-align: center;
+}
+
+main, #reviews {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, .quotebubble {
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+header, #reviewtitle {
+    background-repeat: repeat-x;
+}
+
+header {
+    background-image: url("https://webster.cs.washington.edu/images/rancidbannerbg.png");
+    background-size: auto 50px;
+}
+
+h1 {
+    font-size: 24pt;
+    text-shadow: 3px 3px #999999;
+}
+
+main {
+    width: 55%;
+    box-shadow: 5px 5px 5px gray;
+    background-color: #EEEEEE;
+}
+
+#flex-container, #reviews {
+    display: flex;
+}
+
+footer {
+    background-color: #A2B964;
+    padding: 0.5em;
+}
+
+aside {
+    flex-grow: 1;
+    width: 90%;
+}
+
+#percent, #largetomato {
+    vertical-align: text-bottom;
+}
+
+#reviewtitle {
+    background-image: url("https://webster.cs.washington.edu/images/rottenlargebg.png");
+    background-size: auto 83px;
+    margin-bottom: 1rem;
+}
+
+#percent {
+    font-size: 48pt;
+    color: red;
+}
+
+#reviews {
+    flex-direction: column;
+    width: 90%;
+}
+
+.quotebubble {
+    background-color: #FFFFFF;
+    border: 2px solid #CCCCCC;
+    border-radius: 12px;
+    padding: 1em;
+}
+
+.reviewers, .quotebubble {
+    font-size: 13pt;
+}
+
+#reviews img {
+    vertical-align: text-top;
+    margin-right: 5px;
+    text-align: left;
+    float: left;
+}
+
+.publication {
+    font-style: italic;
+}
+
+#rightcolumn {
+    background-color: #A2B964;
+    flex-basis: 250px;
+}
+
+dt {
+    margin-top: 15px;
+}
+
+dt, dl {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#w3c {
+    text-align: right;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+}

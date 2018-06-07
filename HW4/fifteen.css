@@ -1,0 +1,42 @@
+/*  Name: Phuc H To
+    Date: 10/26/2017
+    Section: CSE 154 AD
+    Assignment: Homework #4: Fifteen Puzzle
+    
+    This is the fifteen.css file for Homework #4: Fifteen Puzzle. It is already linked by
+    the provided file fifteen.html.
+*/
+
+body, #shufflebutton {
+    font-family: cursive;
+    font-size: 14pt;
+    text-align: center;
+}
+
+#puzzlearea p {
+    vertical-align: middle;
+    margin: 0;
+    font-size: 40pt;
+}
+
+#puzzlearea {
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.squares {
+    background-image: url("background.jpg");
+    width: 90px;
+    height: 90px;
+    border: solid 5px black;
+    position: absolute;
+}
+
+.moveable:hover {
+    border-color: red;
+    color: red;
+    cursor: pointer;
+}

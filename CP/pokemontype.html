@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pokemon Type Effectiveness</title>
+        <link type="text/css" href="pokemontype.css" rel="stylesheet" />
+        <script type="text/javascript" src="pokemontype.js"></script>
+    </head>
+    <body>
+        <h>POKEMON TYPE EFFECTIVENESS</h>
+        <div id="controlsection">
+            <fieldset class="control">
+                <legend>Type:</legend>
+                
+                <select id="type">
+                    <option selected value="Normal">Normal</option>
+                    <option value="Fire">Fire</option>
+                    <option value="Water">Water</option>
+                    <option value="Electric">Electric</option>
+                    <option value="Grass">Grass</option>
+                </select>
+                
+            </fieldset>
+            
+            <button id="pick">Show the effectiveness!</button>
+        </div>
+        <div>
+            <fieldset class="textoutput">
+                <legend>Effectiveness:</legend>
+                <textarea id="output" rows="10" cols="80"></textarea>
+            </fieldset>
+        </div>
+    </body>
+</html>

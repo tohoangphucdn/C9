@@ -1,0 +1,33 @@
+.second {
+    width: 80px;
+    height: 80px;
+    border: solid 4px black;
+    border-radius: 2px;
+    background-color: #6df15d;
+}
+
+#section {
+    width: 262px;
+}
+
+
+
+#firstrow, #secondrow, #section {
+    display: flex;
+}
+
+#section {
+    flex-direction: column;
+}
+
+#firstrow {
+    justify-content: flex-end;
+}
+
+
+
+
+
+
+
+

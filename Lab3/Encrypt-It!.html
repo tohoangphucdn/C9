@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+    
+        <title>Encrypt-It!</title>
+        <script type="text/javascript" src="encrypt-it.js"></script>
+    
+    </head>
+    
+    <body>
+    
+        <h1>Encrypt-It!</h1>
+        <h2>Translate any text message into a super-secret cipher!</h2>
+        
+        <fieldset>
+            <legend>Text to encrypt</legend>
+            
+            <textarea id="text" rows="10" cols="60"></textarea>
+            
+        </fieldset>
+        
+        <fieldset>
+            <legend>Encrypt Options</legend>
+            
+            <div>
+                <label><strong>Cypher Type</strong></label>
+                <select>
+                    <option>Shift Cypher</option>
+                    <option>Randomized</option>
+                </select>
+            </div>
+            
+            <div>
+                <label><strong>Font Size</strong></label>
+                <input type="radio" id="small">12pt
+                <input type="radio" id="large">24pt
+            </div>
+            
+            <div>
+                <label><strong>All Caps</strong></label>
+                <input type="checkbox" id="caps"/>
+            </div>
+            
+            <button id="encryptit">Encrypt-It</button>
+            <button id="reset">Reset</button>
+            
+        </fieldset>
+        
+        <fieldset>
+            <legend>Your Encrypted Code</legend>
+            <textarea readonly id="result" rows="10" cols="60"></textarea>
+        </fieldset>
+        
+        <div id="output">
+        
+        </div>
+        
+    </body>
+  
+</html>

@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+}
+
+main {
+    width: 70%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside {
+    flex-basis: 33%;
+}
+
+
+div {
+    flex-basis: 66%;
+}
+
+img {
+    width: 200px;
+    float: right;
+}
+
+#paragraph {
+    clear: both;
+}
+
+.columns {
+    padding: 2em;
+    margin: 2em;
+    border: 5px red dashed;
+}
+
+#finalpart {
+    position: fixed;
+    bottom: 5px;
+}

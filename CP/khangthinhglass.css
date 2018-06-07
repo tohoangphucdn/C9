@@ -1,0 +1,94 @@
+/*
+    Name: Phuc H To
+    Date: 10/10/2017
+    Section: CSE 154 AD
+    Assignment: CP2
+    
+    This is the khangthinhglass.css file to style the second html file for my Creative Project. It is already linked to 
+    the second html file of this assignment.
+*/
+body {
+    background-color: yellow;
+    color: red;
+    font-size: 13pt;
+    font-family: "Times New Roman";
+}
+
+header {
+    font-size: 11pt;
+    display:flex;
+    width: 100%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 11pt;
+    display: flex;
+    width: 100%;
+}
+
+div {
+    
+    width: 70%;
+}
+
+h1 {
+    font-size: 35pt;
+    border: 5px pink solid;
+    text-transform: capitalize;
+    width: 70%;
+    
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+main h2{
+    font-size: 17pt;
+}
+
+main > p {
+    
+    font-size: 11pt;
+    font-style: italic;
+    border: 5px blue double;
+    width: 30%;
+}
+
+footer h2 {
+    font-size: 13pt;
+}
+
+footer strong {
+    color: blue;
+    text-decoration: blue;
+}
+
+
+.left {
+    flex-basis:60%;
+    padding-left: 10px;
+}
+
+.right {
+    flex-basis:40%;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.box {
+    text-align: center;
+    font-family: serif;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    padding: 20px;
+}

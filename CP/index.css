@@ -1,0 +1,91 @@
+/*
+    Name: Phuc H To
+    Date: 10/10/2017
+    Section: CSE 154 AD
+    Assignment: CP2
+    
+    This is the index.css file to style the html file for my Creative Project. It is already linked to 
+    the html file of this assignment.
+*/
+body {
+    background-color: yellow;
+}
+
+header {
+    font-size: small;
+}
+
+h1 {
+    color: aqua;
+    background-color: navy;
+    font-family: cursive;
+    font-size: x-large;
+    text-align: center;
+}
+
+h2, h3, h4 {
+    list-style-type: upper-roman;
+    text-decoration: inherit;
+    text-decoration: underline;
+}
+
+#date {
+    text-align: right;
+    font-size: smaller;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+ 
+a:hover {
+    color: red;
+}
+
+blockquote {
+    font-size: smaller;
+    font-style: italic;
+    text-align: center;
+}
+
+body > p {
+    text-align: center;
+    font-size: large;
+    
+}
+
+p strong {
+    text-decoration: underline;
+}
+
+img, button {
+    width: 200px;
+}
+
+img {
+    height: 200px;
+}
+
+#picture {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 50px;
+}
+
+.bonus {
+    height: 100px;
+    width: 100px;
+}
+
+.aquaText {
+    color: aqua;
+}
+
+.redText {
+    color: red;
+}

@@ -1,0 +1,1677 @@
+[02-Nov-2017 21:17:04 UTC] PHP Warning:  strcmp() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/Lab5PHP/containsTwice.php on line 13
+[02-Nov-2017 21:17:04 UTC] PHP Stack trace:
+[02-Nov-2017 21:17:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Lab5PHP/containsTwice.php:0
+[02-Nov-2017 21:17:04 UTC] PHP   2. containsTwice() /home/ubuntu/workspace/Lab5PHP/containsTwice.php:22
+[02-Nov-2017 21:17:04 UTC] PHP   3. strcmp() /home/ubuntu/workspace/Lab5PHP/containsTwice.php:13
+[02-Nov-2017 21:36:34 UTC] PHP Parse error:  syntax error, unexpected '&' in /home/ubuntu/workspace/Lab5PHP/containsTwice.php on line 22
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 1 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 2 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 3 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 4 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 5 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 6 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[13-Nov-2017 04:18:10 UTC] PHP Warning:  Missing argument 7 for pokeType(), called in /home/ubuntu/workspace/CP/pokemontype.php on line 47 and defined in /home/ubuntu/workspace/CP/pokemontype.php on line 10
+[13-Nov-2017 04:18:10 UTC] PHP Stack trace:
+[13-Nov-2017 04:18:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/CP/pokemontype.php:0
+[13-Nov-2017 04:18:10 UTC] PHP   2. pokeType() /home/ubuntu/workspace/CP/pokemontype.php:47
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:38:04 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:38:04 UTC] PHP Stack trace:
+[22-Nov-2017 01:38:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:38:04 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 01:41:45 UTC] PHP Warning:  file(books/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 31
+[22-Nov-2017 01:41:45 UTC] PHP Stack trace:
+[22-Nov-2017 01:41:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 01:41:45 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:31
+[22-Nov-2017 02:36:50 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:36:50 UTC] PHP Stack trace:
+[22-Nov-2017 02:36:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:36:50 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:36:50 UTC] PHP Warning:  file_get_contents(books/Alanna: The First Adventure (Song of the Lioness /description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:36:50 UTC] PHP Stack trace:
+[22-Nov-2017 02:36:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:36:50 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:38:07 UTC] PHP Warning:  file_get_contents(books/2001: A Space Odyssey/description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:38:07 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:07 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:38:07 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:38:07 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:07 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:38:11 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:38:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:11 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:38:11 UTC] PHP Warning:  file_get_contents(books//description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:38:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:11 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:38:11 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:38:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:11 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:38:11 UTC] PHP Warning:  file_get_contents(books//description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:38:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:11 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:38:11 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:38:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:11 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:38:11 UTC] PHP Warning:  file_get_contents(books//description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:38:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:11 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:38:14 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:38:14 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:14 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:38:14 UTC] PHP Warning:  file_get_contents(books//description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:38:14 UTC] PHP Stack trace:
+[22-Nov-2017 02:38:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:38:14 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:40:01 UTC] PHP Warning:  file_get_contents(books/Alanna: The First Adventure (Song of the Lioness /description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:40:01 UTC] PHP Stack trace:
+[22-Nov-2017 02:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:40:01 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:40:01 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:40:01 UTC] PHP Stack trace:
+[22-Nov-2017 02:40:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:40:01 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:40:49 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:40:49 UTC] PHP Stack trace:
+[22-Nov-2017 02:40:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:40:49 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:40:51 UTC] PHP Warning:  file_get_contents(books/2001: A Space Odyssey/description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:40:51 UTC] PHP Stack trace:
+[22-Nov-2017 02:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:40:51 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:41:39 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:41:39 UTC] PHP Stack trace:
+[22-Nov-2017 02:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:41:39 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:41:53 UTC] PHP Warning:  file_get_contents(books/Alanna: The First Adventure (Song of the Lioness /description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:41:53 UTC] PHP Stack trace:
+[22-Nov-2017 02:41:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:41:53 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:42:25 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:42:25 UTC] PHP Stack trace:
+[22-Nov-2017 02:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:42:25 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:42:28 UTC] PHP Warning:  file_get_contents(books/Alanna: The First Adventure (Song of the Lioness /description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:42:28 UTC] PHP Stack trace:
+[22-Nov-2017 02:42:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:42:28 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:42:33 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:42:33 UTC] PHP Stack trace:
+[22-Nov-2017 02:42:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:42:33 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:42:33 UTC] PHP Warning:  file_get_contents(books/Alanna: The First Adventure (Song of the Lioness /description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:42:33 UTC] PHP Stack trace:
+[22-Nov-2017 02:42:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:42:33 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:42:44 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:42:44 UTC] PHP Stack trace:
+[22-Nov-2017 02:42:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:42:44 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:42:44 UTC] PHP Warning:  file_get_contents(books/2001: A Space Odyssey/description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:42:44 UTC] PHP Stack trace:
+[22-Nov-2017 02:42:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:42:44 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:43:18 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:43:18 UTC] PHP Stack trace:
+[22-Nov-2017 02:43:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:43:18 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:46:20 UTC] PHP Warning:  file_get_contents(books/Alanna: The First Adventure (Song of the Lioness /description.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 6
+[22-Nov-2017 02:46:20 UTC] PHP Stack trace:
+[22-Nov-2017 02:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:46:20 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/HW6/bestreads.php:6
+[22-Nov-2017 02:46:24 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:46:24 UTC] PHP Stack trace:
+[22-Nov-2017 02:46:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:46:24 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:46:29 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:46:29 UTC] PHP Stack trace:
+[22-Nov-2017 02:46:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:46:29 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:46:48 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:46:48 UTC] PHP Stack trace:
+[22-Nov-2017 02:46:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:46:48 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:48:10 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:48:10 UTC] PHP Stack trace:
+[22-Nov-2017 02:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:48:10 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:51:11 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:51:11 UTC] PHP Stack trace:
+[22-Nov-2017 02:51:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:51:11 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:51:57 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:51:57 UTC] PHP Stack trace:
+[22-Nov-2017 02:51:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:51:57 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 02:52:19 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 02:52:19 UTC] PHP Stack trace:
+[22-Nov-2017 02:52:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 02:52:19 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 03:00:38 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 03:00:38 UTC] PHP Stack trace:
+[22-Nov-2017 03:00:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 03:00:38 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 03:00:50 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 03:00:50 UTC] PHP Stack trace:
+[22-Nov-2017 03:00:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 03:00:50 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 03:01:26 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 03:01:26 UTC] PHP Stack trace:
+[22-Nov-2017 03:01:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 03:01:26 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 03:01:58 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 03:01:58 UTC] PHP Stack trace:
+[22-Nov-2017 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 03:01:58 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 03:03:08 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 12
+[22-Nov-2017 03:03:08 UTC] PHP Stack trace:
+[22-Nov-2017 03:03:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 03:03:08 UTC] PHP   2. file() /home/ubuntu/workspace/HW6/bestreads.php:12
+[22-Nov-2017 03:59:34 UTC] PHP Fatal error:  Call to undefined function books() in /home/ubuntu/workspace/HW6/bestreads.php on line 15
+[22-Nov-2017 03:59:34 UTC] PHP Stack trace:
+[22-Nov-2017 03:59:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:31:19 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 40
+[22-Nov-2017 04:31:19 UTC] PHP Stack trace:
+[22-Nov-2017 04:31:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:31:19 UTC] PHP   2. info() /home/ubuntu/workspace/HW6/bestreads.php:13
+[22-Nov-2017 04:31:19 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:40
+[22-Nov-2017 04:33:33 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 46
+[22-Nov-2017 04:33:33 UTC] PHP Stack trace:
+[22-Nov-2017 04:33:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:33:33 UTC] PHP   2. info() /home/ubuntu/workspace/HW6/bestreads.php:20
+[22-Nov-2017 04:33:33 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:46
+[22-Nov-2017 04:34:02 UTC] PHP Fatal error:  Call to undefined function info() in /home/ubuntu/workspace/HW6/bestreads.php on line 20
+[22-Nov-2017 04:34:02 UTC] PHP Stack trace:
+[22-Nov-2017 04:34:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:34:26 UTC] PHP Fatal error:  Call to undefined function info() in /home/ubuntu/workspace/HW6/bestreads.php on line 20
+[22-Nov-2017 04:34:26 UTC] PHP Stack trace:
+[22-Nov-2017 04:34:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:44:02 UTC] PHP Fatal error:  Call to undefined function infor() in /home/ubuntu/workspace/HW6/bestreads.php on line 22
+[22-Nov-2017 04:44:02 UTC] PHP Stack trace:
+[22-Nov-2017 04:44:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:44:30 UTC] PHP Fatal error:  Call to undefined function infor() in /home/ubuntu/workspace/HW6/bestreads.php on line 22
+[22-Nov-2017 04:44:30 UTC] PHP Stack trace:
+[22-Nov-2017 04:44:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:45:50 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 53
+[22-Nov-2017 04:45:50 UTC] PHP Stack trace:
+[22-Nov-2017 04:45:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:45:50 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:22
+[22-Nov-2017 04:45:50 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:53
+[22-Nov-2017 04:47:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/HW6/bestreads.php on line 51
+[22-Nov-2017 04:47:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/HW6/bestreads.php on line 52
+[22-Nov-2017 04:48:08 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 55
+[22-Nov-2017 04:48:08 UTC] PHP Stack trace:
+[22-Nov-2017 04:48:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:48:08 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:48:08 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:55
+[22-Nov-2017 04:51:57 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:51:57 UTC] PHP Stack trace:
+[22-Nov-2017 04:51:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:51:57 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:51:57 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:52:16 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:52:16 UTC] PHP Stack trace:
+[22-Nov-2017 04:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:52:16 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:52:16 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:52:38 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:52:38 UTC] PHP Stack trace:
+[22-Nov-2017 04:52:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:52:38 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:52:38 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:53:24 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:53:24 UTC] PHP Stack trace:
+[22-Nov-2017 04:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:53:24 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:53:24 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:53:29 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:53:29 UTC] PHP Stack trace:
+[22-Nov-2017 04:53:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:53:29 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:53:29 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:55:43 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:55:43 UTC] PHP Stack trace:
+[22-Nov-2017 04:55:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:55:43 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:55:43 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 04:56:25 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreads.php on line 24
+[22-Nov-2017 04:56:25 UTC] PHP Stack trace:
+[22-Nov-2017 04:56:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[22-Nov-2017 04:56:25 UTC] PHP   2. infor() /home/ubuntu/workspace/HW6/bestreads.php:32
+[22-Nov-2017 04:56:25 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreads.php:24
+[22-Nov-2017 23:09:16 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreadsdraft.php on line 45
+[22-Nov-2017 23:09:16 UTC] PHP Stack trace:
+[22-Nov-2017 23:09:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:0
+[22-Nov-2017 23:09:16 UTC] PHP   2. info() /home/ubuntu/workspace/HW6/bestreadsdraft.php:12
+[22-Nov-2017 23:09:16 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreadsdraft.php:45
+[22-Nov-2017 23:09:39 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreadsdraft.php on line 45
+[22-Nov-2017 23:09:39 UTC] PHP Stack trace:
+[22-Nov-2017 23:09:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:0
+[22-Nov-2017 23:09:39 UTC] PHP   2. info() /home/ubuntu/workspace/HW6/bestreadsdraft.php:12
+[22-Nov-2017 23:09:39 UTC] PHP   3. file() /home/ubuntu/workspace/HW6/bestreadsdraft.php:45
+[22-Nov-2017 23:53:49 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /home/ubuntu/workspace/HW6/bestreadsdraft.php on line 11
+[22-Nov-2017 23:53:49 UTC] PHP Stack trace:
+[22-Nov-2017 23:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:0
+[22-Nov-2017 23:53:49 UTC] PHP   2. call_user_func:{/home/ubuntu/workspace/HW6/bestreadsdraft.php:11}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:11
+[22-Nov-2017 23:54:26 UTC] PHP Warning:  file(books/Array/info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreadsdraft.php on line 24
+[22-Nov-2017 23:54:26 UTC] PHP Stack trace:
+[22-Nov-2017 23:54:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:0
+[22-Nov-2017 23:54:26 UTC] PHP   2. call_user_func:{/home/ubuntu/workspace/HW6/bestreadsdraft.php:11}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:11
+[22-Nov-2017 23:54:26 UTC] PHP   3. info() /home/ubuntu/workspace/HW6/bestreadsdraft.php:11
+[22-Nov-2017 23:54:26 UTC] PHP   4. file() /home/ubuntu/workspace/HW6/bestreadsdraft.php:24
+[22-Nov-2017 23:58:30 UTC] PHP Warning:  file(books//info.txt): failed to open stream: No such file or directory in /home/ubuntu/workspace/HW6/bestreadsdraft.php on line 15
+[22-Nov-2017 23:58:30 UTC] PHP Stack trace:
+[22-Nov-2017 23:58:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:0
+[22-Nov-2017 23:58:30 UTC] PHP   2. call_user_func:{/home/ubuntu/workspace/HW6/bestreadsdraft.php:11}() /home/ubuntu/workspace/HW6/bestreadsdraft.php:11
+[22-Nov-2017 23:58:30 UTC] PHP   3. info() /home/ubuntu/workspace/HW6/bestreadsdraft.php:11
+[22-Nov-2017 23:58:30 UTC] PHP   4. file() /home/ubuntu/workspace/HW6/bestreadsdraft.php:15
+[23-Nov-2017 00:14:47 UTC] PHP Fatal error:  Call to undefined function book() in /home/ubuntu/workspace/HW6/bestreads.php on line 28
+[23-Nov-2017 00:14:47 UTC] PHP Stack trace:
+[23-Nov-2017 00:14:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[23-Nov-2017 00:15:25 UTC] PHP Fatal error:  Call to undefined function book() in /home/ubuntu/workspace/HW6/bestreads.php on line 28
+[23-Nov-2017 00:15:25 UTC] PHP Stack trace:
+[23-Nov-2017 00:15:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/HW6/bestreads.php:0
+[02-Dec-2017 08:39:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/hw7/insert.php on line 3
+[02-Dec-2017 08:39:36 UTC] PHP Stack trace:
+[02-Dec-2017 08:39:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:40:08 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/hw7/insert.php on line 3
+[02-Dec-2017 08:40:08 UTC] PHP Stack trace:
+[02-Dec-2017 08:40:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:40:42 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/hw7/insert.php on line 3
+[02-Dec-2017 08:40:42 UTC] PHP Stack trace:
+[02-Dec-2017 08:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:41:22 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/insert.php on line 3
+[02-Dec-2017 08:41:22 UTC] PHP Stack trace:
+[02-Dec-2017 08:41:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:41:22 UTC] PHP Notice:  Use of undefined constant error_report - assumed 'error_report' in /home/ubuntu/workspace/hw7/insert.php on line 5
+[02-Dec-2017 08:41:22 UTC] PHP Stack trace:
+[02-Dec-2017 08:41:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:41:25 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/insert.php on line 3
+[02-Dec-2017 08:41:25 UTC] PHP Stack trace:
+[02-Dec-2017 08:41:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:41:25 UTC] PHP Notice:  Use of undefined constant error_report - assumed 'error_report' in /home/ubuntu/workspace/hw7/insert.php on line 5
+[02-Dec-2017 08:41:25 UTC] PHP Stack trace:
+[02-Dec-2017 08:41:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[02-Dec-2017 08:41:51 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/insert.php on line 3
+[02-Dec-2017 08:41:51 UTC] PHP Stack trace:
+[02-Dec-2017 08:41:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 01:04:36 UTC] PHP Notice:  Undefined index: mode in /home/ubuntu/workspace/hw7/delete.php on line 7
+[03-Dec-2017 01:04:36 UTC] PHP Stack trace:
+[03-Dec-2017 01:04:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 01:04:36 UTC] PHP Notice:  Undefined index: mode in /home/ubuntu/workspace/hw7/delete.php on line 37
+[03-Dec-2017 01:04:36 UTC] PHP Stack trace:
+[03-Dec-2017 01:04:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 01:04:36 UTC] PHP   2. error_mode() /home/ubuntu/workspace/hw7/delete.php:10
+[03-Dec-2017 01:09:07 UTC] PHP Fatal error:  Call to undefined function missingone() in /home/ubuntu/workspace/hw7/insert.php on line 5
+[03-Dec-2017 01:09:07 UTC] PHP Stack trace:
+[03-Dec-2017 01:09:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 02:31:34 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:31:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:31:34 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:31:34 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:31:34 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:31:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP Stack trace:
+[03-Dec-2017 02:31:34 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:31:34 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:32:02 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:32:02 UTC] PHP Stack trace:
+[03-Dec-2017 02:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:32:02 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:32:02 UTC] PHP Stack trace:
+[03-Dec-2017 02:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:32:02 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:32:02 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:32:02 UTC] PHP Stack trace:
+[03-Dec-2017 02:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:32:02 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:34:50 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:34:50 UTC] PHP Stack trace:
+[03-Dec-2017 02:34:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:34:50 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:34:50 UTC] PHP Stack trace:
+[03-Dec-2017 02:34:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:34:50 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:34:50 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:34:50 UTC] PHP Stack trace:
+[03-Dec-2017 02:34:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:34:50 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:35:50 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:35:50 UTC] PHP Stack trace:
+[03-Dec-2017 02:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:35:50 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:35:50 UTC] PHP Stack trace:
+[03-Dec-2017 02:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:35:50 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:35:50 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:35:50 UTC] PHP Stack trace:
+[03-Dec-2017 02:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:35:50 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:37:33 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:37:33 UTC] PHP Stack trace:
+[03-Dec-2017 02:37:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:37:33 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:37:33 UTC] PHP Stack trace:
+[03-Dec-2017 02:37:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:37:33 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:37:33 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:37:33 UTC] PHP Stack trace:
+[03-Dec-2017 02:37:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:37:33 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:46:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 02:46:45 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:46:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:46:45 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:46:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:46:45 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 02:46:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 02:46:45 UTC] PHP Stack trace:
+[03-Dec-2017 02:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 02:46:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 03:01:45 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:45 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:45 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:45 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:45 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:45 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:58 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:01:58 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:58 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:58 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:58 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:01:58 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:01:58 UTC] PHP Stack trace:
+[03-Dec-2017 03:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:01:58 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:05:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:9
+[03-Dec-2017 03:05:52 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:9
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:05:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/insert.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/insert.php(8): PDO->exec('INSERT INTO Pok...')
+#1 {main}
+  thrown in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:05:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/insert.php:8
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/insert.php(8): PDO->exec('INSERT INTO Pok...')
+#1 {main}
+  thrown in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:06:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 03:06:21 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:06:21 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:06:21 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/hw7/insert.php on line 8
+[03-Dec-2017 03:07:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 03:07:01 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:01 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:01 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:01 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:01 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 03:07:51 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:51 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/hw7/insert.php on line 9
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:51 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:07:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:07:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:07:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:07:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:10
+[03-Dec-2017 03:10:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/hw7/delete.php on line 11
+[03-Dec-2017 03:10:51 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:10:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:51 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:10:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:10:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:10:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:10:51 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:10:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:51 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:10:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:10:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:10:51 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:51 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:10:52 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 03:10:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:52 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:10:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:52 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 03:10:52 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 03:10:52 UTC] PHP Stack trace:
+[03-Dec-2017 03:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 03:10:52 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:28:42 UTC] PHP Fatal error:  Cannot redeclare insert_poke() (previously declared in /home/ubuntu/workspace/hw7/insert.php:18) in /home/ubuntu/workspace/hw7/common.php on line 28
+[03-Dec-2017 04:28:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:28:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:28:42 UTC] PHP Fatal error:  Cannot redeclare insert_poke() (previously declared in /home/ubuntu/workspace/hw7/insert.php:18) in /home/ubuntu/workspace/hw7/common.php on line 28
+[03-Dec-2017 04:28:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:28:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:28:42 UTC] PHP Fatal error:  Cannot redeclare insert_poke() (previously declared in /home/ubuntu/workspace/hw7/insert.php:18) in /home/ubuntu/workspace/hw7/common.php on line 28
+[03-Dec-2017 04:28:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:28:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:41 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:41 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/delete.php on line 12
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:30:41 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/delete.php on line 21
+[03-Dec-2017 04:30:41 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:30:41 UTC] PHP   2. remove_all() /home/ubuntu/workspace/hw7/delete.php:12
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:41 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:42 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:42 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:42 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:42 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:30:42 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:30:42 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:30:42 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:30:42 UTC] PHP Stack trace:
+[03-Dec-2017 04:30:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/delete.php on line 12
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/delete.php on line 21
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. remove_all() /home/ubuntu/workspace/hw7/delete.php:12
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:31:44 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:31:44 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:31:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:31:44 UTC] PHP Stack trace:
+[03-Dec-2017 04:31:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/delete.php on line 12
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/delete.php on line 21
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. remove_all() /home/ubuntu/workspace/hw7/delete.php:12
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:04 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:04 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:04 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/delete.php on line 12
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/delete.php on line 21
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. remove_all() /home/ubuntu/workspace/hw7/delete.php:12
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 52
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:32:47 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:32:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 4
+[03-Dec-2017 04:32:47 UTC] PHP Stack trace:
+[03-Dec-2017 04:32:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 50
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 50
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/delete.php on line 12
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:33:46 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/delete.php on line 21
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. remove_all() /home/ubuntu/workspace/hw7/delete.php:12
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 50
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:33:46 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:33:46 UTC] PHP Stack trace:
+[03-Dec-2017 04:33:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:33:46 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/delete.php on line 12
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/delete.php on line 21
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. remove_all() /home/ubuntu/workspace/hw7/delete.php:12
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 50
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 50
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 50
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 51
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 04:43:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 04:43:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/hw7/select.php on line 3
+[03-Dec-2017 04:43:57 UTC] PHP Stack trace:
+[03-Dec-2017 04:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[03-Dec-2017 05:41:11 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 57
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:41:11 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 61
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:41:11 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 57
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:41:11 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 61
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:41:11 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 57
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:41:11 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 61
+[03-Dec-2017 05:41:11 UTC] PHP Stack trace:
+[03-Dec-2017 05:41:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:41:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:42:57 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:42:57 UTC] PHP Stack trace:
+[03-Dec-2017 05:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:42:57 UTC] PHP Warning:  Missing argument 2 for contains(), called in /home/ubuntu/workspace/hw7/insert.php on line 7 and defined in /home/ubuntu/workspace/hw7/common.php on line 53
+[03-Dec-2017 05:42:57 UTC] PHP Stack trace:
+[03-Dec-2017 05:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:42:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:42:57 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:42:57 UTC] PHP Stack trace:
+[03-Dec-2017 05:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:42:57 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:46:49 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:46:49 UTC] PHP Stack trace:
+[03-Dec-2017 05:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:46:49 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:46:49 UTC] PHP Stack trace:
+[03-Dec-2017 05:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:46:49 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:46:49 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:46:49 UTC] PHP Stack trace:
+[03-Dec-2017 05:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:46:49 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:46:49 UTC] PHP Stack trace:
+[03-Dec-2017 05:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:46:49 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:46:49 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:46:49 UTC] PHP Stack trace:
+[03-Dec-2017 05:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:46:49 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:46:49 UTC] PHP Stack trace:
+[03-Dec-2017 05:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:46:49 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:47:09 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:47:09 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:09 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:47:09 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:09 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:47:09 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:47:09 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:09 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:47:09 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:09 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:47:09 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:47:09 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:09 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:47:09 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:09 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:47:20 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:47:20 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:47:20 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:20 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:20 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:47:20 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:47:20 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:20 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:20 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:47:20 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:47:20 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:47:20 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:20 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:47:20 UTC] PHP Stack trace:
+[03-Dec-2017 05:47:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:47:20 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:49:24 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:49:24 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:24 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:49:24 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:24 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:49:24 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:49:24 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:24 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:49:24 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:24 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:49:24 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:49:24 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:24 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:49:24 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:24 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[02-Dec-2017 21:49:24 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'magnemite' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/common.php:39
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/common.php(39): PDO->exec('INSERT INTO Pok...')
+#1 /home/ubuntu/workspace/hw7/insert.php(14): insert_poke('magnemite')
+#2 {main}
+  thrown in /home/ubuntu/workspace/hw7/common.php on line 39
+[03-Dec-2017 05:49:55 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:49:55 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:55 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:49:55 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:55 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:49:55 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:49:55 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:55 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:49:55 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:55 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:49:56 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:49:56 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:56 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:49:56 UTC] PHP Stack trace:
+[03-Dec-2017 05:49:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:49:56 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:51:26 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:51:26 UTC] PHP Stack trace:
+[03-Dec-2017 05:51:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:51:26 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:51:26 UTC] PHP Stack trace:
+[03-Dec-2017 05:51:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:51:26 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:51:26 UTC] PHP Stack trace:
+[03-Dec-2017 05:51:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:51:26 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:51:26 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 05:51:26 UTC] PHP Stack trace:
+[03-Dec-2017 05:51:26 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:51:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:51:26 UTC] PHP Stack trace:
+[03-Dec-2017 05:51:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:51:26 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 05:51:26 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 05:51:26 UTC] PHP Stack trace:
+[03-Dec-2017 05:51:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 05:51:26 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 09:09:29 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 09:09:29 UTC] PHP Stack trace:
+[03-Dec-2017 09:09:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:09:29 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 09:09:29 UTC] PHP Stack trace:
+[03-Dec-2017 09:09:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:09:29 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 09:10:08 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 09:10:08 UTC] PHP Stack trace:
+[03-Dec-2017 09:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:10:08 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 09:10:08 UTC] PHP Stack trace:
+[03-Dec-2017 09:10:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:10:08 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 09:10:27 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 09:10:27 UTC] PHP Stack trace:
+[03-Dec-2017 09:10:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:10:27 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 09:10:27 UTC] PHP Stack trace:
+[03-Dec-2017 09:10:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:10:27 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 09:11:11 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 09:11:11 UTC] PHP Stack trace:
+[03-Dec-2017 09:11:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:11:11 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 09:11:11 UTC] PHP Stack trace:
+[03-Dec-2017 09:11:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:11:11 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[03-Dec-2017 09:11:29 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[03-Dec-2017 09:11:29 UTC] PHP Stack trace:
+[03-Dec-2017 09:11:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:11:29 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[03-Dec-2017 09:11:29 UTC] PHP Stack trace:
+[03-Dec-2017 09:11:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[03-Dec-2017 09:11:29 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:02:49 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:02:49 UTC] PHP Stack trace:
+[04-Dec-2017 04:02:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:02:49 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[04-Dec-2017 04:02:49 UTC] PHP Stack trace:
+[04-Dec-2017 04:02:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:02:49 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:05:06 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:05:06 UTC] PHP Stack trace:
+[04-Dec-2017 04:05:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:05:06 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[04-Dec-2017 04:05:06 UTC] PHP Stack trace:
+[04-Dec-2017 04:05:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:05:06 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:06:41 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:06:41 UTC] PHP Stack trace:
+[04-Dec-2017 04:06:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:06:41 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 56
+[04-Dec-2017 04:06:41 UTC] PHP Stack trace:
+[04-Dec-2017 04:06:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:06:41 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:08:20 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:08:20 UTC] PHP Stack trace:
+[04-Dec-2017 04:08:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:08:20 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 55
+[04-Dec-2017 04:08:20 UTC] PHP Stack trace:
+[04-Dec-2017 04:08:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:08:20 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:08:20 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:08:20 UTC] PHP Stack trace:
+[04-Dec-2017 04:08:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:08:21 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 55
+[04-Dec-2017 04:08:21 UTC] PHP Stack trace:
+[04-Dec-2017 04:08:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:08:21 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:08:21 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:08:21 UTC] PHP Stack trace:
+[04-Dec-2017 04:08:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:08:21 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 55
+[04-Dec-2017 04:08:21 UTC] PHP Stack trace:
+[04-Dec-2017 04:08:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:08:21 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:09:32 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:09:32 UTC] PHP Stack trace:
+[04-Dec-2017 04:09:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:09:32 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 55
+[04-Dec-2017 04:09:32 UTC] PHP Stack trace:
+[04-Dec-2017 04:09:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:09:32 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 04:11:54 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 7
+[04-Dec-2017 04:11:54 UTC] PHP Stack trace:
+[04-Dec-2017 04:11:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:11:54 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 53
+[04-Dec-2017 04:11:54 UTC] PHP Stack trace:
+[04-Dec-2017 04:11:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 04:11:54 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:7
+[04-Dec-2017 07:16:06 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[04-Dec-2017 07:16:06 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:06 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[04-Dec-2017 07:16:06 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:06 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[04-Dec-2017 07:16:06 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[04-Dec-2017 07:16:06 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:06 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[04-Dec-2017 07:16:06 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:06 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[04-Dec-2017 07:16:06 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[04-Dec-2017 07:16:06 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:06 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[04-Dec-2017 07:16:06 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:06 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[04-Dec-2017 07:16:39 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[04-Dec-2017 07:16:39 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:39 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[04-Dec-2017 07:16:39 UTC] PHP Stack trace:
+[04-Dec-2017 07:16:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 07:16:39 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[04-Dec-2017 22:44:10 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[04-Dec-2017 22:44:10 UTC] PHP Stack trace:
+[04-Dec-2017 22:44:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 22:44:10 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[04-Dec-2017 22:44:10 UTC] PHP Stack trace:
+[04-Dec-2017 22:44:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 22:44:10 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[04-Dec-2017 23:20:20 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[04-Dec-2017 23:20:20 UTC] PHP Stack trace:
+[04-Dec-2017 23:20:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 23:20:20 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[04-Dec-2017 23:20:20 UTC] PHP Stack trace:
+[04-Dec-2017 23:20:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[04-Dec-2017 23:20:20 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[05-Dec-2017 06:50:31 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[05-Dec-2017 06:50:31 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[05-Dec-2017 06:50:31 UTC] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/hw7/insert.php on line 24
+[05-Dec-2017 06:50:32 UTC] PHP Stack trace:
+[05-Dec-2017 06:50:32 UTC] PHP Stack trace:
+[05-Dec-2017 06:50:32 UTC] PHP Stack trace:
+[05-Dec-2017 06:50:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[05-Dec-2017 06:50:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[05-Dec-2017 06:50:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[05-Dec-2017 06:50:32 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[05-Dec-2017 06:50:32 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[05-Dec-2017 06:50:32 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[05-Dec-2017 06:50:32 UTC] PHP Stack trace:
+[05-Dec-2017 06:50:32 UTC] PHP Stack trace:
+[05-Dec-2017 06:50:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[05-Dec-2017 06:50:32 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[05-Dec-2017 06:50:32 UTC] PHP Stack trace:
+[05-Dec-2017 06:50:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[05-Dec-2017 06:50:32 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[05-Dec-2017 06:50:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[05-Dec-2017 06:50:32 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:24
+[07-Dec-2017 04:13:58 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:13:58 UTC] PHP Stack trace:
+[07-Dec-2017 04:13:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:13:58 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:14:22 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:14:22 UTC] PHP Stack trace:
+[07-Dec-2017 04:14:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:14:22 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:14:54 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:14:54 UTC] PHP Stack trace:
+[07-Dec-2017 04:14:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:14:54 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:14:55 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:14:55 UTC] PHP Stack trace:
+[07-Dec-2017 04:14:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:14:55 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:15:44 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:15:44 UTC] PHP Stack trace:
+[07-Dec-2017 04:15:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:15:44 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:15:45 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:15:45 UTC] PHP Stack trace:
+[07-Dec-2017 04:15:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:15:45 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:18:38 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[07-Dec-2017 04:18:38 UTC] PHP Stack trace:
+[07-Dec-2017 04:18:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[07-Dec-2017 04:18:38 UTC] PHP   2. contains() /home/ubuntu/workspace/hw7/insert.php:26
+[07-Dec-2017 04:20:28 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/common.php on line 22
+[07-Dec-2017 04:20:28 UTC] PHP Stack trace:
+[07-Dec-2017 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/select.php:0
+[07-Dec-2017 04:20:28 UTC] PHP   2. include() /home/ubuntu/workspace/hw7/select.php:11
+[07-Dec-2017 04:23:26 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[07-Dec-2017 04:23:26 UTC] PHP Stack trace:
+[07-Dec-2017 04:23:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[07-Dec-2017 04:23:26 UTC] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[07-Dec-2017 04:23:26 UTC] PHP   3. contains() /home/ubuntu/workspace/hw7/trade.php:45
+[07-Dec-2017 04:23:26 UTC] PHP Notice:  Undefined variable: poke in /home/ubuntu/workspace/hw7/common.php on line 105
+[07-Dec-2017 04:23:26 UTC] PHP Stack trace:
+[07-Dec-2017 04:23:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[07-Dec-2017 04:23:26 UTC] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[07-Dec-2017 04:23:26 UTC] PHP   3. contains() /home/ubuntu/workspace/hw7/trade.php:46
+[07-Dec-2017 04:24:06 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/ubuntu/workspace/hw7/common.php on line 108
+[07-Dec-2017 04:24:06 UTC] PHP Stack trace:
+[07-Dec-2017 04:24:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[07-Dec-2017 04:24:06 UTC] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[07-Dec-2017 04:24:06 UTC] PHP   3. contains() /home/ubuntu/workspace/hw7/trade.php:45
+[07-Dec-2017 04:26:50 UTC] PHP Notice:  Undefined variable: theirpokemon in /home/ubuntu/workspace/hw7/trade.php on line 52
+[07-Dec-2017 04:26:50 UTC] PHP Stack trace:
+[07-Dec-2017 04:26:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[07-Dec-2017 04:26:50 UTC] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Notice:  Undefined variable: mypokemon in /home/ubuntu/workspace/hw7/trade.php on line 53
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Stack trace:
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Warning:  Missing argument 3 for remove_single(), called in /home/ubuntu/workspace/hw7/trade.php on line 53 and defined in /home/ubuntu/workspace/hw7/common.php on line 88
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Stack trace:
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   3. remove_single() /home/ubuntu/workspace/hw7/trade.php:53
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Notice:  Undefined variable: db in /home/ubuntu/workspace/hw7/common.php on line 90
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Stack trace:
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   3. remove_single() /home/ubuntu/workspace/hw7/trade.php:53
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Fatal error:  Call to a member function exec() on a non-object in /home/ubuntu/workspace/hw7/common.php on line 90
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP Stack trace:
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   1. {main}() /home/ubuntu/workspace/hw7/trade.php:0
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   2. trade() /home/ubuntu/workspace/hw7/trade.php:32
+[06-Dec-2017 20:26:50 America/Los_Angeles] PHP   3. remove_single() /home/ubuntu/workspace/hw7/trade.php:53
+[06-Dec-2017 20:31:23 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'strtolower(zapdos)' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/common.php:77
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/common.php(77): PDO->exec('INSERT INTO Pok...')
+#1 /home/ubuntu/workspace/hw7/trade.php(52): insert_poke('zapdos', Object(PDO))
+#2 /home/ubuntu/workspace/hw7/trade.php(32): trade('flareon', 'zapdos', Object(PDO))
+#3 {main}
+  thrown in /home/ubuntu/workspace/hw7/common.php on line 77
+[07-Dec-2017 04:32:17 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:32:17 UTC] PHP Stack trace:
+[07-Dec-2017 04:32:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:36:21 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:36:22 UTC] PHP Stack trace:
+[07-Dec-2017 04:36:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:37:22 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:37:22 UTC] PHP Stack trace:
+[07-Dec-2017 04:37:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:37:49 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:37:49 UTC] PHP Stack trace:
+[07-Dec-2017 04:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:37:53 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:37:53 UTC] PHP Stack trace:
+[07-Dec-2017 04:37:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:37:56 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:37:56 UTC] PHP Stack trace:
+[07-Dec-2017 04:37:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:38:00 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:38:00 UTC] PHP Stack trace:
+[07-Dec-2017 04:38:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:38:07 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:38:07 UTC] PHP Stack trace:
+[07-Dec-2017 04:38:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:39:25 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:39:25 UTC] PHP Stack trace:
+[07-Dec-2017 04:39:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[06-Dec-2017 20:39:58 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'zapdos' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/common.php:77
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/common.php(77): PDO->exec('INSERT INTO Pok...')
+#1 /home/ubuntu/workspace/hw7/trade.php(52): insert_poke('zapdos', Object(PDO))
+#2 /home/ubuntu/workspace/hw7/trade.php(32): trade('metapod', 'zapdos', Object(PDO))
+#3 {main}
+  thrown in /home/ubuntu/workspace/hw7/common.php on line 77
+[06-Dec-2017 20:40:08 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'zapdos' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/common.php:77
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/common.php(77): PDO->exec('INSERT INTO Pok...')
+#1 /home/ubuntu/workspace/hw7/trade.php(52): insert_poke('zapdos', Object(PDO))
+#2 /home/ubuntu/workspace/hw7/trade.php(32): trade('metapod', 'zapdos', Object(PDO))
+#3 {main}
+  thrown in /home/ubuntu/workspace/hw7/common.php on line 77
+[06-Dec-2017 20:40:48 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'zapdos' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/common.php:77
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/common.php(77): PDO->exec('INSERT INTO Pok...')
+#1 /home/ubuntu/workspace/hw7/trade.php(52): insert_poke('zapdos', Object(PDO))
+#2 /home/ubuntu/workspace/hw7/trade.php(32): trade('metapod', 'zapdos', Object(PDO))
+#3 {main}
+  thrown in /home/ubuntu/workspace/hw7/common.php on line 77
+[07-Dec-2017 04:48:21 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:48:21 UTC] PHP Stack trace:
+[07-Dec-2017 04:48:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:51:02 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:51:02 UTC] PHP Stack trace:
+[07-Dec-2017 04:51:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:52:16 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 04:52:16 UTC] PHP Stack trace:
+[07-Dec-2017 04:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 04:52:26 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/insert.php on line 22
+[07-Dec-2017 04:52:26 UTC] PHP Stack trace:
+[07-Dec-2017 04:52:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[07-Dec-2017 04:53:17 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/insert.php on line 22
+[07-Dec-2017 04:53:17 UTC] PHP Stack trace:
+[07-Dec-2017 04:53:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/insert.php:0
+[06-Dec-2017 20:59:08 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'charizard' for key 'PRIMARY'' in /home/ubuntu/workspace/hw7/common.php:77
+Stack trace:
+#0 /home/ubuntu/workspace/hw7/common.php(77): PDO->exec('INSERT INTO Pok...')
+#1 /home/ubuntu/workspace/hw7/insert.php(32): insert_poke('charizard', Object(PDO))
+#2 {main}
+  thrown in /home/ubuntu/workspace/hw7/common.php on line 77
+[07-Dec-2017 05:00:31 UTC] PHP Notice:  Undefined index: mode in /home/ubuntu/workspace/hw7/delete.php on line 24
+[07-Dec-2017 05:00:31 UTC] PHP Stack trace:
+[07-Dec-2017 05:00:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:00:33 UTC] PHP Notice:  Undefined index: mode in /home/ubuntu/workspace/hw7/delete.php on line 24
+[07-Dec-2017 05:00:33 UTC] PHP Stack trace:
+[07-Dec-2017 05:00:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:01:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/hw7/delete.php on line 67
+[07-Dec-2017 05:01:58 UTC] PHP Notice:  Undefined index: mode in /home/ubuntu/workspace/hw7/delete.php on line 24
+[07-Dec-2017 05:01:58 UTC] PHP Stack trace:
+[07-Dec-2017 05:01:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:02:18 UTC] PHP Notice:  Undefined index: mode in /home/ubuntu/workspace/hw7/delete.php on line 24
+[07-Dec-2017 05:02:18 UTC] PHP Stack trace:
+[07-Dec-2017 05:02:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:08:40 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:08:40 UTC] PHP Stack trace:
+[07-Dec-2017 05:08:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:09:49 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:09:49 UTC] PHP Stack trace:
+[07-Dec-2017 05:09:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:11:33 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:11:33 UTC] PHP Stack trace:
+[07-Dec-2017 05:11:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:17:27 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:17:27 UTC] PHP Stack trace:
+[07-Dec-2017 05:17:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:17:42 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:17:42 UTC] PHP Stack trace:
+[07-Dec-2017 05:17:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:17:52 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:17:52 UTC] PHP Stack trace:
+[07-Dec-2017 05:17:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:18:07 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:18:07 UTC] PHP Stack trace:
+[07-Dec-2017 05:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[07-Dec-2017 05:20:21 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[07-Dec-2017 05:20:21 UTC] PHP Stack trace:
+[07-Dec-2017 05:20:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:04:59 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:04:59 UTC] PHP Stack trace:
+[08-Dec-2017 06:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:05:15 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:05:15 UTC] PHP Stack trace:
+[08-Dec-2017 06:05:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:05:17 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:05:17 UTC] PHP Stack trace:
+[08-Dec-2017 06:05:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:05:20 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:05:20 UTC] PHP Stack trace:
+[08-Dec-2017 06:05:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:05:22 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:05:22 UTC] PHP Stack trace:
+[08-Dec-2017 06:05:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:05:25 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:05:25 UTC] PHP Stack trace:
+[08-Dec-2017 06:05:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[08-Dec-2017 06:05:28 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[08-Dec-2017 06:05:28 UTC] PHP Stack trace:
+[08-Dec-2017 06:05:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[09-Dec-2017 00:39:07 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[09-Dec-2017 00:39:07 UTC] PHP Stack trace:
+[09-Dec-2017 00:39:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0
+[09-Dec-2017 00:43:40 UTC] PHP Notice:  Undefined index: name in /home/ubuntu/workspace/hw7/delete.php on line 23
+[09-Dec-2017 00:43:40 UTC] PHP Stack trace:
+[09-Dec-2017 00:43:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/hw7/delete.php:0

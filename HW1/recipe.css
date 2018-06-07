@@ -1,0 +1,54 @@
+/*
+    Name: Phuc H To
+    Date: 10/03/2017
+    Section: CSE 154 AD
+    Assignment: Homework 1: Recipe
+    
+    This is the styling file recipe.css for Homework 1: Recipe's html file pie.html.
+    It's already link to the other file to work.
+*/
+
+body {
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond, serif;
+}
+
+h1, h2 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-family: Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: left;
+    font-size: 18pt;
+}
+
+a {
+    color: #A4A400;
+}
+
+abbr {
+    text-decoration: underline;
+}
+
+pre {
+    font-family: monospace;
+    
+    
+}
+
+blockquote {
+    background-color: #FFFFA8;
+    font-style: italic;
+}
+

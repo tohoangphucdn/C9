@@ -1,0 +1,53 @@
+body {
+    background-color: #23272A;
+    color: #FFFFFF;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#chatbox {
+    background-color: #2C2F33;
+    height: 70vh;
+    min-height: 500px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+#dlogo {
+    height: 50px;
+    vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 > a {
+    text-decoration: none;
+}
+
+#footer {
+    font-size: 8pt;
+    font-style: italic;
+}
+
+#chatbox > .msg {
+    padding-bottom: 10px;
+}
+
+#chatbox > .msg > .author, #chatbox > .msg > .text {
+    font-size: 18pt;
+    display: inline;
+    padding-left: 5px;
+}
+
+#chatbox > .msg > .avatar {
+    height: 32px;
+    border-radius: 50px;
+    vertical-align: middle;
+}
+
+#chatbox > .msg > .author {
+    font-weight: bolder;
+}

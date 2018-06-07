@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<!--
+    Name: Phuc H To
+    Date: 10/19/2017
+    Section: CSE 154 AD
+    Assignment: Homework #3: Speed Reader
+    
+    This is the speedreader.html file for Homework #2: Movie Review. It is also linked to
+    speedreader.css file which is used to style for this page and speedreader.js file for
+    page operations.
+-->
+
+<html>
+    
+    <head>
+        
+        <title>Speed Reader</title>
+        <link type="text/css" href="speedreader.css" rel="stylesheet" />
+        <script type="text/javascript" src="speedreader.js"></script>
+        
+    </head>
+    
+    <body>
+        
+        <header>
+            <h1>SpeedReader</h1>
+        </header>
+        
+        <div id="bodydiv">
+        </div>
+        
+        <div id="controlsection">
+            
+            <fieldset class="control">
+                <legend>Play Controls:</legend>
+                <button id="start" class="whitebutton">Start</button>
+                <button id="stop" class="graybutton">Stop</button>
+            </fieldset>
+            
+            <fieldset class="control">
+                <legend>Speed:</legend>
+                
+                <select id="speed">
+                    <option value="1200">50 wpm</option>
+                    <option value="200">300 wpm</option>
+                    <option selected value="171">350 wpm</option>
+                    <option value="150">400 wpm</option>
+                    <option value="133">450 wpm</option>
+                    <option value="120">500 wpm</option>
+                </select>
+                
+            </fieldset>
+            
+            <fieldset class="control">
+                <legend>Size:</legend>
+                <input type="radio" id="med" checked="checked"><label>Medium</label>
+                <input type="radio" id="big">Big
+                <input type="radio" id="bigger">Bigger
+            </fieldset>
+            
+        </div>
+            
+        <div id="textinput">
+            <fieldset class="control">
+                <legend>Input Text:</legend>
+                <textarea id="input" rows="10" cols="80"></textarea>
+            </fieldset>
+        </div>
+        
+        <footer>
+			<a href="https://validator.w3.org/#validate_by_input">
+				<img src="https://webster.cs.washington.edu/images/w3c-html-blue.png" alt="Valid HTML5" /></a>
+			<a href="https://jigsaw.w3.org/css-validator/#validate_by_input">
+				<img src="https://webster.cs.washington.edu/images/w3c-css-blue.png" alt="Valid CSS" /></a>
+		    <a href="http://www.jslint.com/">
+		        <img src="https://webster.cs.washington.edu/images/w3c-js-blue.png" alt="Valid JS" /></a>
+        </footer>
+        
+    </body>
+    
+</html>
